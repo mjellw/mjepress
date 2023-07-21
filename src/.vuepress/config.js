@@ -6,8 +6,9 @@ export default defineUserConfig({
   description: "This is going to be awesome!",
   themeConfig: {
     nav: [
-      { text: "Home", link: "/" },
-      { text: "About", link: "/about/" }
+        { text: 'Home', link: '/' },
+        { text: 'About', link: '/about.html' },
+        { text: 'Blog', link: 'https://example.com/' }  
     ],
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
@@ -16,8 +17,8 @@ export default defineUserConfig({
   base: '/',
   serviceWorker: true,
   plugins: ['@vuepress/back-to-top'],
-  plugins: ['@vuepress/medium-zoom'],
   plugins: [
+    ['@vuepress/medium-zoom'],
     [
       '@vuepress/blog',
       {

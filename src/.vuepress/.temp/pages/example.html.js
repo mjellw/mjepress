@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-1bb9c728\",\"path\":\"/example.html\",\"title\":\"example pages\",\"lang\":\"ja-JP\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"見出し1\",\"slug\":\"見出し1\",\"link\":\"#見出し1\",\"children\":[]},{\"level\":2,\"title\":\"見出し2\",\"slug\":\"見出し2\",\"link\":\"#見出し2\",\"children\":[]},{\"level\":2,\"title\":\"見出し3\",\"slug\":\"見出し3\",\"link\":\"#見出し3\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"example.md\"}")
+export const data = JSON.parse("{\"key\":\"v-1bb9c728\",\"path\":\"/example.html\",\"title\":\"example pages\",\"lang\":\"ja-JP\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"見出し1\",\"slug\":\"見出し1\",\"link\":\"#見出し1\",\"children\":[]},{\"level\":2,\"title\":\"見出し2\",\"slug\":\"見出し2\",\"link\":\"#見出し2\",\"children\":[]},{\"level\":2,\"title\":\"見出し3\",\"slug\":\"見出し3\",\"link\":\"#見出し3\",\"children\":[]}],\"git\":{\"updatedTime\":1689905248000,\"contributors\":[{\"name\":\"tentoumushi-jp\",\"email\":\"09mjellw@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"example.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

@@ -34,7 +34,8 @@
 <li>hogehoge</li>
 <li>hogehoge</li>
 <li>hogehoge</li>
-<li>hogehoge</li>
+<li>hogehoge
+<img src="/mje_Arc.png" alt=""></li>
 </ul>
 </div></template>
 
