@@ -1,5 +1,5 @@
 import clientConfig0 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig1 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig1 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/theme-default/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
 import clientConfig2 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
 import clientConfig3 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
 import clientConfig4 from '/Users/koushirou/Desktop/mjepress/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'

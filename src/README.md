@@ -2,7 +2,6 @@
 title: Hello Vuepress!
 meta:
   - name: description
-    description: 'hogehogeee'
     content: すごい説明
     sidebar: auto
     heroImage: /images/hero.png
@@ -12,17 +11,6 @@ meta:
 ## Vuepressとは？
 - なんかいい感じにドキュメントとかブログとか作れるやつ
 - Vueが使える（たぶん）
-::: tip
-こんな
-:::
-
-::: warning
-感じの
-:::
-
-::: danger
-メッセージ
-:::
 
 ## なんでVuepress始めたんですか？
 - ブログ作れそうな気がしたから
@@ -34,4 +22,22 @@ meta:
 - GitHub Pagesでデプロイ
 - 独自ドメイン化
 - ブログ的運用
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
+- hogehoge
 

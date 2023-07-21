@@ -5,15 +5,6 @@
 <li>なんかいい感じにドキュメントとかブログとか作れるやつ</li>
 <li>Vueが使える（たぶん）</li>
 </ul>
-<div class="custom-container tip"><p class="custom-container-title">TIP</p>
-<p>こんな</p>
-</div>
-<div class="custom-container warning"><p class="custom-container-title">WARNING</p>
-<p>感じの</p>
-</div>
-<div class="custom-container danger"><p class="custom-container-title">DANGER</p>
-<p>メッセージ</p>
-</div>
 <h2 id="なんでvuepress始めたんですか" tabindex="-1"><a class="header-anchor" href="#なんでvuepress始めたんですか" aria-hidden="true">#</a> なんでVuepress始めたんですか？</h2>
 <ul>
 <li>ブログ作れそうな気がしたから</li>
@@ -26,6 +17,24 @@
 <li>GitHub Pagesでデプロイ</li>
 <li>独自ドメイン化</li>
 <li>ブログ的運用</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
+<li>hogehoge</li>
 </ul>
 </div></template>
 
