@@ -11,11 +11,10 @@ export default defineUserConfig({
         { text: 'Blog', link: 'https://example.com/' }  
     ],
     head: [
-        ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+        ['link', { rel: 'icon', type: 'image/png', href: './public/favicon.png' }],
     ],
   },
   base: '/',
-  serviceWorker: true,
   plugins: ['@vuepress/back-to-top'],
   plugins: [
     ['@vuepress/medium-zoom'],
