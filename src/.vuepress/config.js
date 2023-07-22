@@ -5,10 +5,11 @@ export default defineUserConfig({
   title: 'VuePressのテスト',
   description: "This is going to be awesome!",
   themeConfig: {
-    nav: [
-        { text: 'Home', link: '/' },
-        { text: 'About', link: '/about.html' },
-        { text: 'Blog', link: 'https://example.com/' }  
+    nav: [      
+        { text: 'Posts', link: '/'},
+        { text: 'About', link: '/about'},
+        { text: 'twitter', link: 'https://twitter.com/mjellw' },
+        { text: 'Github', link: 'https://github.com/mjellw' },    
     ],
     head: [
         ['link', { rel: 'icon', type: 'image/png', href: './public/favicon.png' }],
