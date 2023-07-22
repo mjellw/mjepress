@@ -1,5 +1,5 @@
 <template><div><h1 id="hello-vuepress" tabindex="-1"><a class="header-anchor" href="#hello-vuepress" aria-hidden="true">#</a> Hello Vuepress!</h1>
-<p>はじめての VuePressを使ったドキュメント・ブログ作成</p>
+<PostList /><p>はじめての VuePressを使ったドキュメント・ブログ作成</p>
 <h2 id="vuepressとは" tabindex="-1"><a class="header-anchor" href="#vuepressとは" aria-hidden="true">#</a> Vuepressとは？</h2>
 <ul>
 <li>なんかいい感じにドキュメントとかブログとか作れるやつ</li>
